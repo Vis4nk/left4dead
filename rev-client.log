@@ -1,0 +1,243 @@
+2023/05/23 16:06:04 	Startup
+2023/05/23 16:06:04 	Using Interface: SteamClient008
+2023/05/23 16:06:04 	CAdapterSteamClient008::CreateSteamPipe
+2023/05/23 16:06:04 	CAdapterSteamClient008::ConnectToGlobalUser
+2023/05/23 16:06:04 	CAdapterSteamClient008::GetISteamUtils
+2023/05/23 16:06:04 	Using Interface: SteamUtils004
+2023/05/23 16:06:04 	CAdapterSteamClient008::GetISteamUser
+2023/05/23 16:06:04 	Using Interface: SteamUser012
+2023/05/23 16:06:04 	CAdapterSteamClient008::GetISteamFriends
+2023/05/23 16:06:04 	Using Interface: SteamFriends005
+2023/05/23 16:06:04 	CAdapterSteamClient008::GetISteamMatchmaking
+2023/05/23 16:06:04 	Using Interface: SteamMatchMaking007
+2023/05/23 16:06:04 	CAdapterSteamClient008::GetISteamMatchmakingServers
+2023/05/23 16:06:04 	Using Interface: SteamMatchMakingServers002
+2023/05/23 16:06:04 	CAdapterSteamClient008::GetISteamUserStats
+2023/05/23 16:06:04 	Using Interface: STEAMUSERSTATS_INTERFACE_VERSION006
+2023/05/23 16:06:04 	CAdapterSteamClient008::GetISteamApps
+2023/05/23 16:06:04 	Using Interface: STEAMAPPS_INTERFACE_VERSION003
+2023/05/23 16:06:04 	CAdapterSteamClient008::GetISteamNetworking
+2023/05/23 16:06:04 	Using Interface: SteamNetworking003
+2023/05/23 16:06:04 	CAdapterSteamClient008::GetISteamRemoteStorage
+2023/05/23 16:06:04 	Using Interface: STEAMREMOTESTORAGE_INTERFACE_VERSION002
+2023/05/23 16:06:04 	CAdapterSteamClient008::GetISteamUser
+2023/05/23 16:06:04 	Using Interface: SteamUser012
+2023/05/23 16:06:04 	CAdapterSteamClient008::GetISteamFriends
+2023/05/23 16:06:04 	Using Interface: SteamFriends005
+2023/05/23 16:06:04 	CAdapterSteamClient008::GetISteamMatchmaking
+2023/05/23 16:06:04 	Using Interface: SteamMatchMaking007
+2023/05/23 16:06:04 	CAdapterSteamClient008::GetISteamMatchmakingServers
+2023/05/23 16:06:04 	Using Interface: SteamMatchMakingServers002
+2023/05/23 16:06:04 	CAdapterSteamClient008::GetISteamUserStats
+2023/05/23 16:06:04 	Using Interface: STEAMUSERSTATS_INTERFACE_VERSION006
+2023/05/23 16:06:04 	CAdapterSteamClient008::GetISteamApps
+2023/05/23 16:06:04 	Using Interface: STEAMAPPS_INTERFACE_VERSION003
+2023/05/23 16:06:04 	CAdapterSteamClient008::GetISteamNetworking
+2023/05/23 16:06:04 	Using Interface: SteamNetworking003
+2023/05/23 16:06:04 	CAdapterSteamClient008::GetISteamRemoteStorage
+2023/05/23 16:06:04 	Using Interface: STEAMREMOTESTORAGE_INTERFACE_VERSION002
+2023/05/23 16:06:04 	CAdapterSteamClient008::GetISteamGenericInterface
+2023/05/23 16:06:04 	Using Interface: SteamGameCoordinator001
+2023/05/23 16:06:04 	CAdapterSteamFriends005::GetFriendPersonaName
+2023/05/23 16:06:04 	CAdapterSteamClient008::GetISteamUser
+2023/05/23 16:06:04 	Using Interface: SteamUser012
+2023/05/23 16:06:04 	CAdapterSteamClient008::GetISteamFriends
+2023/05/23 16:06:04 	Using Interface: SteamFriends005
+2023/05/23 16:06:04 	CAdapterSteamClient008::GetISteamMatchmaking
+2023/05/23 16:06:04 	CAdapterSteamClient008::GetISteamMatchmakingServers
+2023/05/23 16:06:04 	Using Interface: SteamMatchMakingServers002
+2023/05/23 16:06:04 	CAdapterSteamClient008::GetISteamUserStats
+2023/05/23 16:06:04 	Using Interface: STEAMUSERSTATS_INTERFACE_VERSION006
+2023/05/23 16:06:04 	CAdapterSteamClient008::GetISteamApps
+2023/05/23 16:06:04 	CAdapterSteamClient008::GetISteamNetworking
+2023/05/23 16:06:05 	Using Interface: SteamNetworking003
+2023/05/23 16:06:05 	Using Interface: STEAMREMOTESTORAGE_INTERFACE_VERSION002
+2023/05/23 16:06:05 	CAdapterSteamClient008::SetWarningMessageHook
+2023/05/23 16:06:05 	CAdapterSteamApps003::BIsSubscribedApp
+2023/05/23 16:06:05 	CAdapterSteamClient008::GetISteamUser
+2023/05/23 16:06:05 	CAdapterSteamClient008::GetISteamFriends
+2023/05/23 16:06:05 	Using Interface: SteamFriends005
+2023/05/23 16:06:05 	Using Interface: SteamMatchMaking007
+2023/05/23 16:06:05 	CAdapterSteamClient008::GetISteamMatchmakingServers
+2023/05/23 16:06:05 	Using Interface: SteamMatchMakingServers002
+2023/05/23 16:06:05 	CAdapterSteamClient008::GetISteamUserStats
+2023/05/23 16:06:05 	Using Interface: STEAMUSERSTATS_INTERFACE_VERSION006
+2023/05/23 16:06:05 	Using Interface: STEAMAPPS_INTERFACE_VERSION003
+2023/05/23 16:06:05 	CAdapterSteamClient008::GetISteamNetworking
+2023/05/23 16:06:05 	Using Interface: SteamNetworking003
+2023/05/23 16:06:05 	CAdapterSteamClient008::GetISteamRemoteStorage
+2023/05/23 16:06:05 	Using Interface: STEAMREMOTESTORAGE_INTERFACE_VERSION002
+2023/05/23 16:06:05 	Adapters::CSteamUtils004::GetConnectedUniverse
+2023/05/23 16:06:05 	CAdapterSteamFriends005::GetPersonaName
+2023/05/23 16:06:05 	CAdapterSteamApps003::BIsLowViolence
+2023/05/23 16:06:05 	CAdapterSteamClient008::GetISteamUser
+2023/05/23 16:06:05 	Using Interface: SteamUser012
+2023/05/23 16:06:05 	CAdapterSteamClient008::GetISteamFriends
+2023/05/23 16:06:05 	Using Interface: SteamFriends005
+2023/05/23 16:06:05 	CAdapterSteamClient008::GetISteamMatchmaking
+2023/05/23 16:06:05 	Using Interface: SteamMatchMaking007
+2023/05/23 16:06:06 	Using Interface: SteamMatchMakingServers002
+2023/05/23 16:06:06 	CAdapterSteamClient008::GetISteamUserStats
+2023/05/23 16:06:06 	Using Interface: STEAMUSERSTATS_INTERFACE_VERSION006
+2023/05/23 16:06:06 	CAdapterSteamClient008::GetISteamApps
+2023/05/23 16:06:06 	CAdapterSteamClient008::GetISteamNetworking
+2023/05/23 16:06:06 	Using Interface: SteamNetworking003
+2023/05/23 16:06:06 	CAdapterSteamClient008::GetISteamRemoteStorage
+2023/05/23 16:06:06 	Using Interface: STEAMREMOTESTORAGE_INTERFACE_VERSION002
+2023/05/23 16:06:06 	Adapters::CSteamUtils004::SetOverlayNotificationPosition
+2023/05/23 16:06:06 	Adapters::CSteamUtils004::GetIPCountry
+2023/05/23 16:06:06 	CAdapterSteamApps003::BIsSubscribedApp
+2023/05/23 16:06:37 	Adapters::CSteamUtils004::GetConnectedUniverse
+2023/05/23 16:06:37 	Adapters::CSteamUtils004::GetConnectedUniverse
+2023/05/23 16:06:37 	CAdapterSteamClient008::GetISteamGenericInterface
+2023/05/23 16:06:37 	Using Interface: STEAMREMOTESTORAGE_INTERFACE_VERSION002
+2023/05/23 16:06:37 	Using Interface: STEAMREMOTESTORAGE_INTERFACE_VERSION002
+2023/05/23 16:06:37 	Adapters::CSteamRemoteStorage002::GetFileSize
+2023/05/23 16:06:37 	CAdapterSteamFriends005::GetFriendPersonaName
+2023/05/23 16:06:38 	Adapters::CSteamRemoteStorage002::GetFileSize
+2023/05/23 16:06:38 	Adapters::CSteamRemoteStorage002::GetFileSize
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::RequestCurrentStats
+2023/05/23 16:06:38 	Adapters::CSteamNetworking003::CreateListenSocket
+2023/05/23 16:06:38 	Adapters::CSteamNetworking003::CreateListenSocket
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::RequestCurrentStats
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	Adapters::CSteamUserStats006::GetAchievement
+2023/05/23 16:06:38 	CAdapterSteamFriends005::GetFriendCount
+2023/05/23 16:06:38 	CAdapterSteamClient008::GetISteamUser
+2023/05/23 16:06:38 	Using Interface: SteamUser012
+2023/05/23 16:06:38 	CAdapterSteamClient008::GetISteamFriends
+2023/05/23 16:06:38 	Using Interface: SteamFriends005
+2023/05/23 16:06:38 	Using Interface: SteamMatchMaking007
+2023/05/23 16:06:38 	CAdapterSteamClient008::GetISteamMatchmakingServers
+2023/05/23 16:06:38 	Using Interface: SteamMatchMakingServers002
+2023/05/23 16:06:38 	CAdapterSteamClient008::GetISteamUserStats
+2023/05/23 16:06:38 	Using Interface: STEAMUSERSTATS_INTERFACE_VERSION006
+2023/05/23 16:06:38 	Using Interface: STEAMAPPS_INTERFACE_VERSION003
+2023/05/23 16:06:38 	CAdapterSteamClient008::GetISteamNetworking
+2023/05/23 16:06:38 	CAdapterSteamClient008::GetISteamRemoteStorage
+2023/05/23 16:06:38 	Using Interface: STEAMREMOTESTORAGE_INTERFACE_VERSION002
+2023/05/23 16:06:38 	CAdapterSteamMatchmakingServers002::IsRefreshing
+2023/05/23 16:06:38 	CAdapterSteamMatchmakingServers002::IsRefreshing
+2023/05/23 16:06:38 	CAdapterSteamMatchmakingServers002::CancelQuery
+2023/05/23 16:06:38 	CAdapterSteamMatchmakingServers002::RequestLANServerList
+2023/05/23 16:06:38 	CAdapterSteamClient008::GetISteamGenericInterface
+2023/05/23 16:06:38 	Using Interface: STEAMREMOTESTORAGE_INTERFACE_VERSION002
+2023/05/23 16:06:38 	Using Interface: STEAMREMOTESTORAGE_INTERFACE_VERSION002
+2023/05/23 16:06:38 	Adapters::CSteamRemoteStorage002::GetQuota
+2023/05/23 16:06:39 	CAdapterSteamFriends005::GetClanCount
+2023/05/23 16:06:39 	[DEBUG] Stopping ServerQuery due to nNoResponseCount > 50.
+2023/05/23 16:06:51 	CAdapterSteamFriends005::GetFriendCount
+2023/05/23 16:06:58 	CAdapterSteamFriends005::GetClanCount
+2023/05/23 16:07:05 	CAdapterSteamFriends005::GetFriendCount
+2023/05/23 16:07:15 	CAdapterSteamFriends005::GetFriendPersonaName
+2023/05/23 16:07:15 	CAdapterSteamFriends005::GetFriendPersonaName
+2023/05/23 16:07:21 	Using Interface: SteamClient008
+2023/05/23 16:07:21 	CAdapterSteamClient008::SetLocalIPBinding
+2023/05/23 16:07:21 	CAdapterSteamClient008::GetISteamGameServer
+2023/05/23 16:07:21 	Using Interface: SteamGameServer009
+2023/05/23 16:07:21 	CAdapterSteamClient008::GetISteamApps
+2023/05/23 16:07:21 	Using Interface: STEAMAPPS_INTERFACE_VERSION003
+2023/05/23 16:07:21 	Adapters::CSteamGameServer009::LogOn
+2023/05/23 16:07:21 	CAdapterSteamClient008::GetISteamGameServer
+2023/05/23 16:07:21 	Using Interface: SteamGameServer009
+2023/05/23 16:07:21 	CAdapterSteamClient008::GetISteamMasterServerUpdater
+2023/05/23 16:07:21 	Using Interface: SteamMasterServerUpdater001
+2023/05/23 16:07:21 	CAdapterSteamClient008::GetISteamNetworking
+2023/05/23 16:07:21 	Using Interface: SteamNetworking003
+2023/05/23 16:07:21 	CAdapterSteamFriends005::GetFriendPersonaName
+2023/05/23 16:07:21 	CAdapterSteamFriends005::GetFriendPersonaName
+2023/05/23 16:07:21 	CAdapterSteamClient008::GetISteamGameServer
+2023/05/23 16:07:21 	Using Interface: SteamGameServer009
+2023/05/23 16:07:21 	Using Interface: SteamMasterServerUpdater001
+2023/05/23 16:07:21 	CAdapterSteamClient008::GetISteamNetworking
+2023/05/23 16:07:21 	Adapters::CSteamGameServer009::SendUserConnectAndAuthenticate
+2023/05/23 16:07:21 	Ticket: Rev Emu.
+2023/05/23 16:07:21 	UserConnect IP = 192.168.56.1 | SteamID = x.x.664478871 (164)
+
+2023/05/23 16:07:22 	CAdapterSteamApps003::BIsSubscribed
+2023/05/23 16:07:24 	Adapters::CSteamUserStats006::RequestCurrentStats
+2023/05/23 16:07:24 	Adapters::CSteamUtils004::GetIPCountry
+2023/05/23 16:07:24 	CAdapterSteamApps003::GetCurrentGameLanguage
+2023/05/23 16:07:24 	CAdapterSteamFriends005::GetFriendGamePlayed
+2023/05/23 16:07:24 	Adapters::CSteamMatchmaking007::GetLobbyOwner
+2023/05/23 16:07:24 	CAdapterSteamFriends005::GetFriendGamePlayed
+2023/05/23 16:07:24 	Adapters::CSteamMatchmaking007::GetLobbyOwner
+2023/05/23 16:07:24 	CAdapterSteamFriends005::GetFriendCount
+2023/05/23 16:07:26 	Adapters::CSteamMatchmaking007::AddFavoriteGame
+2023/05/23 16:07:29 	CAdapterSteamClient008::GetISteamGenericInterface
+2023/05/23 16:07:29 	Using Interface: SteamGameStats001
+2023/05/23 16:07:29 	Interface Not Found
+2023/05/23 16:07:29 	CAdapterSteamClient008::GetISteamGenericInterface
+2023/05/23 16:07:29 	Interface Not Found
+2023/05/23 16:07:29 	CAdapterSteamClient008::GetISteamGenericInterface
+2023/05/23 16:07:29 	Interface Not Found
+2023/05/23 16:07:29 	CAdapterSteamClient008::GetISteamGenericInterface
+2023/05/23 16:07:29 	Using Interface: SteamGameStats001
+2023/05/23 16:07:29 	Interface Not Found
+2023/05/23 16:07:29 	CAdapterSteamClient008::GetISteamGenericInterface
+2023/05/23 16:07:29 	Using Interface: SteamGameStats001
+2023/05/23 16:07:29 	Interface Not Found
+2023/05/23 16:07:29 	CAdapterSteamClient008::GetISteamGenericInterface
+2023/05/23 16:07:29 	Using Interface: SteamGameStats001
+2023/05/23 16:07:29 	CAdapterSteamClient008::GetISteamGenericInterface
+2023/05/23 16:07:29 	Using Interface: SteamGameStats001
+2023/05/23 16:07:29 	CAdapterSteamClient008::GetISteamGenericInterface
+2023/05/23 16:07:29 	Using Interface: SteamGameStats001
+2023/05/23 16:07:29 	Adapters::CSteamUtils004::GetConnectedUniverse
+2023/05/23 16:08:46 	CAdapterSteamClient008::GetISteamGenericInterface
+2023/05/23 16:08:46 	Using Interface: STEAMREMOTESTORAGE_INTERFACE_VERSION002
+2023/05/23 16:08:46 	CAdapterSteamClient008::GetISteamRemoteStorage
+2023/05/23 16:08:46 	Using Interface: STEAMREMOTESTORAGE_INTERFACE_VERSION002
+2023/05/23 16:08:46 	Adapters::CSteamRemoteStorage002::GetQuota
+2023/05/23 16:08:46 	User::CRStorage::FileWrite
+2023/05/23 16:08:46 	User::CRStorage::FileWrite
+2023/05/23 16:08:46 	Adapters::CSteamRemoteStorage002::FileWrite
+2023/05/23 16:08:46 	User::CRStorage::FileWrite
